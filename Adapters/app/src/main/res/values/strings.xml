@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adapters</string>
+
+    <string-array name="produtos">
+        <item>Coffe</item>
+        <item>Bean</item>
+        <item>Rice</item>
+        <item>Fruit</item>
+        <item>Bread</item>
+    </string-array>
+</resources>
