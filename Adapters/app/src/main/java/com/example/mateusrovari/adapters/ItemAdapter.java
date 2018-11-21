@@ -6,20 +6,19 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.text.NumberFormat;
 import java.util.List;
 import java.util.Locale;
 
-public class ProductsAdapter extends BaseAdapter {
+public class ItemAdapter extends BaseAdapter {
 
     private static final NumberFormat nf = NumberFormat.getCurrencyInstance(new Locale("pt", "BR"));
 
-    private List<Product> products;
+    private List<Item> products;
     private LayoutInflater inflater;
 
-    public  ProductsAdapter(Context context, List<Product> products){
+    public ItemAdapter(Context context, List<Item> products){
         this.products = products;
         inflater = LayoutInflater.from(context);
     }
@@ -57,7 +56,7 @@ public class ProductsAdapter extends BaseAdapter {
             vh = (ViewHolder) view.getTag();
         }
 
-        Product product = products.get(position);
+        Item product = products.get(position);
 
         vh.txtNome.setText(product.getNome());
         vh.txtPrice.setText(nf.format(product.getPrice()));
