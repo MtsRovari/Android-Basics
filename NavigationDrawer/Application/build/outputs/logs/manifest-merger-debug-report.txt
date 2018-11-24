@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:17:1-44:12
+MERGED from [com.android.support:support-v13:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v13-24.0.0.aar\e10912cdb39f4b031d89e409c1e74494\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\6bc866ab1d2455d4032d67597abd8746\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\a221b6bcb315395edc7fbf979edba945\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\23facd05b5a7be3f7b8ce2e0b9789777\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\bb0302f4e7a5e723f316d25de9d115bd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\862207cba6f14e4f0639211c8195558b\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:18:5-51
+	android:versionName
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:24:5-42:19
+MERGED from [com.android.support:support-v13:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v13-24.0.0.aar\e10912cdb39f4b031d89e409c1e74494\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v13-24.0.0.aar\e10912cdb39f4b031d89e409c1e74494\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\6bc866ab1d2455d4032d67597abd8746\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\6bc866ab1d2455d4032d67597abd8746\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\23facd05b5a7be3f7b8ce2e0b9789777\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\23facd05b5a7be3f7b8ce2e0b9789777\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\bb0302f4e7a5e723f316d25de9d115bd\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\bb0302f4e7a5e723f316d25de9d115bd\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\862207cba6f14e4f0639211c8195558b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\862207cba6f14e4f0639211c8195558b\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.navigationdrawer.MainActivity
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:30:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.navigationdrawer.NavigationDrawerActivity
+ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml:39:13-53
+uses-sdk
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v13-24.0.0.aar\e10912cdb39f4b031d89e409c1e74494\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v13-24.0.0.aar\e10912cdb39f4b031d89e409c1e74494\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\6bc866ab1d2455d4032d67597abd8746\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\6bc866ab1d2455d4032d67597abd8746\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\a221b6bcb315395edc7fbf979edba945\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\a221b6bcb315395edc7fbf979edba945\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\23facd05b5a7be3f7b8ce2e0b9789777\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\23facd05b5a7be3f7b8ce2e0b9789777\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\bb0302f4e7a5e723f316d25de9d115bd\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\bb0302f4e7a5e723f316d25de9d115bd\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\862207cba6f14e4f0639211c8195558b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\862207cba6f14e4f0639211c8195558b\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\support-v13-24.0.0.aar\e10912cdb39f4b031d89e409c1e74494\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\NavigationDrawer\Application\src\main\AndroidManifest.xml

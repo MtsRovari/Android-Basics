@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\NavigationDrawer\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v20\\values-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\AndroidStudioProjects\\NavigationDrawer\\Application\\src\\main\\res\\values-v20\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "671",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "745"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "129"
+                    }
+                }
+            ]
+        }
+    ]
+}
