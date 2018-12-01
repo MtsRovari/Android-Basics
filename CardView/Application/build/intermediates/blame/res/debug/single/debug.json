@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_card_view.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\layout\\activity_card_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_card_view.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\layout\\fragment_card_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
