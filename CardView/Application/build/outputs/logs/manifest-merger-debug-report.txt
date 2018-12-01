@@ -1,0 +1,64 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:18:5-43
+	android:versionName
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:22:5-35:19
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.cardview.CardViewActivity
+ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Mateus Rovari\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\2352371ea9442025b88d42664d0ff927\AndroidManifest.xml:20:5-43
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\CardView\Application\src\main\AndroidManifest.xml

@@ -1,0 +1,239 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mateus Rovari\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-24.0.0.aar\\2352371ea9442025b88d42664d0ff927\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "677",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "753"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "131"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "656,724",
+                        "endColumns": "67,67",
+                        "endOffsets": "719,787"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,67",
+                        "endOffsets": "118,186"
+                    }
+                },
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "621",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "861"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "650",
+                        "endColumns": "65",
+                        "endOffsets": "711"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,25,24",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "646,1107,1044",
+                        "endLines": "23,25,24",
+                        "endColumns": "13,65,62",
+                        "endOffsets": "1039,1168,1102"
+                    },
+                    "to": {
+                        "startLines": "22,28,29",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1791,2177,2243",
+                        "endLines": "27,28,29",
+                        "endColumns": "13,65,62",
+                        "endOffsets": "2172,2238,2301"
+                    }
+                },
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
+                    },
+                    "to": {
+                        "startLines": "40,56,57,58,59,63",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2547,3330,3390,3443,3470,3666",
+                        "endLines": "40,56,57,58,62,68",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "2593,3385,3438,3465,3661,3939"
+                    }
+                },
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "647,699",
+                        "endLines": "18,28",
+                        "endColumns": "51,13",
+                        "endOffsets": "694,935"
+                    },
+                    "to": {
+                        "startLines": "21,30",
+                        "startColumns": "4,4",
+                        "startOffsets": "1739,2306",
+                        "endLines": "21,39",
+                        "endColumns": "51,13",
+                        "endOffsets": "1786,2542"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mateus Rovari\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-24.0.0.aar\\2352371ea9442025b88d42664d0ff927\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,10,11,12,41,48,50,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,237,299,1162,1221,1278,2598,3012,3076,3202",
+                        "endLines": "2,4,5,6,10,11,12,47,49,52,55",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,232,294,358,1216,1273,1327,3007,3071,3197,3325"
+                    }
+                },
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "718,776,832",
+                        "endColumns": "57,55,51",
+                        "endOffsets": "771,827,879"
+                    },
+                    "to": {
+                        "startLines": "8,9,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1048,1106,1619",
+                        "endColumns": "57,55,51",
+                        "endOffsets": "1101,1157,1666"
+                    }
+                },
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "959,880,836,791,748,706,1029",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1024,918,875,831,786,743,1092"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1332,1402,1445,1489,1534,1577,1671",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1397,1440,1484,1529,1572,1614,1734"
+                    }
+                },
+                {
+                    "source": "C:\\AndroidStudioProjects\\CardView\\Application\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "646",
+                        "endColumns": "58",
+                        "endOffsets": "700"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endColumns": "58",
+                        "endOffsets": "170"
+                    }
+                }
+            ]
+        }
+    ]
+}
