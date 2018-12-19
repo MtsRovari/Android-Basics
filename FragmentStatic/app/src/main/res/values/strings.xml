@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentStatic</string>
+    <string name="fragment_right">Fragment right</string>
+    <string name="fragment_left">Fragment left</string>
+</resources>
