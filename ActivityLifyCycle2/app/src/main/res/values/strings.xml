@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifyCycle2</string>
+    <string name="title_activity">Main Activity2</string>
+    <string name="hello_word">Hello Word</string>
+</resources>
