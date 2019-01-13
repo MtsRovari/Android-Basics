@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UI1</string>
+    <string name="first_question">What programming language do you like?</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="swift">Swift</string>
+    <string name="which_programming_paradigm_do_you_prefer">which programming paradigm do you prefer?</string>
+    <string name="procedural">Procedural</string>
+    <string name="poo">POO</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
