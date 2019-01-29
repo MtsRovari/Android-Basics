@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BuildingActivities</string>
+    <string name="text1">This is a activity</string>
+    <string name="btn_next">Next Activity</string>
+    <string name="text2_SecondActivity">This is Second Activity</string>
+</resources>
