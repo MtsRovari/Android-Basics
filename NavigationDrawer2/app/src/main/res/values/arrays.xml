@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_names">
+        <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Júpter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </string-array>
+
+    <string-array name="planets_imgs">
+        <item>@drawable/mercury</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/neptune</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir o navigation drawer</string>
+    <string name="drawer_close">Fechar o navigation drawer</string>
+    <string name="action_search">Procurar</string>
+    <string name="title_choose">Escolha um planeta</string>
+
+</resources>
