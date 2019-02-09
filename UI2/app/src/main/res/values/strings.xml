@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI2</string>
+    <string name="dados_pessoais">Dados Pessoais</string>
+    <string name="nome">Nome:</string>
+    <string name="sobrenome">Sobrenome:</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
