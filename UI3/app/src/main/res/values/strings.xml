@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI3</string>
+    <string name="nome">Nome:</string>
+    <string name="email">Email:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_email">Digite seu email</string>
+</resources>
