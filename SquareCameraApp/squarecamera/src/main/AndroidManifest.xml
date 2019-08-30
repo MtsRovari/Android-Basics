@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mateusrovari.squarecamera">
+
+    <application android:theme="@style/squarecamera__CameraFullScreenTheme" >
+        <activity
+            android:name=".RuntimePermissionActivity"
+            android:theme="@style/squarecamera__CameraFullScreenTheme.NoUI" >
+        </activity>
+    </application>
+
+</manifest>
